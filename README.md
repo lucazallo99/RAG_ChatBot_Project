@@ -40,6 +40,7 @@ final-project/
 └── BIA6304_Zallo_Final.ipynb
 └──README.md
 
+
 ## File Descriptions
 - **embedding.py**: Defines the `HuggingFaceEmbedding` class to generate document embeddings and sets up FAISS for efficient similarity search. It loads historical data from a parquet file and builds a searchable FAISS index.
 - **search.py**: Implements the `search()` function that accepts a query string, generates its embedding, and performs a similarity search on the historical documents using FAISS.
