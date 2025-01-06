@@ -1,5 +1,5 @@
 ## RAG CHATBOT ON EUROPEAN HISTORY
-This is a RAG ChatBot project. It was developed as my Final for a Text Mining Class during my Master's Degree
+This is a RAG ChatBot project. It was developed as my Final for a Text Mining Class during my Master's Degree. The project brings together several techniques learned throughout the course. If wanted to be replicated, it requires a Google Generative AI API key to be implemented. It is possible to use different API keys but the code would need several adjustments.
 
 ## Overview
 This project involves developing an interactive chatbot that allows users to query European history topics and receive detailed responses based on a large dataset of historical content. The chatbot uses a combination of natural language processing techniques, similarity search, and large language models (LLMs) to provide accurate and contextually relevant information. The application can search through historical documents, extract the most relevant content, and respond in real-time using AI.
@@ -23,7 +23,7 @@ This project involves developing an interactive chatbot that allows users to que
 ## Environment Variables
 This project requires the following environment variables to run:
 
-- `API_KEY`: Your OpenAI API key.
+- `API_KEY`: Your Google Generative AI API key.
 Create a `.env` file in the root directory with the following format:
 API_KEY=your-key-here
 
