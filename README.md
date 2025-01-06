@@ -28,7 +28,7 @@ Create a `.env` file in the root directory with the following format:
 API_KEY=your-key-here
 
 ## Project Structure
-
+```
 final-project/
 ├── embedding.py
 ├── search.py
@@ -39,7 +39,7 @@ final-project/
 ├── conversationstate.py
 ├── BIA6304_Zallo_Final.ipynb
 └── README.md
-
+```
 
 ## File Descriptions
 - **embedding.py**: Defines the `HuggingFaceEmbedding` class to generate document embeddings and sets up FAISS for efficient similarity search. It loads historical data from a parquet file and builds a searchable FAISS index.
