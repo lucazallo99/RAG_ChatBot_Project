@@ -39,6 +39,7 @@ final-project/
 ├── ChatConfig.py
 ├── conversationstate.py
 ├── BIA6304_Zallo_Final.ipynb
+├── Zallo_Midterm.parquet
 └── README.md
 ```
 
@@ -50,6 +51,7 @@ final-project/
 - **strategy.py**: Implements the chatbot's interaction logic, including how user inputs are processed, when to search historical documents, and how to generate responses using the LLM.
 - **chatbot.py**: The main loop for the chatbot application. Handles user interactions, passes inputs to the search and AI systems, and displays the chatbot's responses.
 - **conversationstate.py**: Tracks the history of the conversation and any relevant context to ensure consistent and contextually accurate responses.
+- **EuropeanHistory.parquet**: This is the dataset that I have generated using a webscraping program that collected information pertaining several topics about European History from Wikipedia.
 
 ## Acknowledgements
 This project was made possible through the support of several resources:
