@@ -29,6 +29,7 @@ API_KEY=your-key-here
 
 
 ## Project Structure
+
 final-project/
 ├── embedding.py
 ├── search.py
@@ -37,8 +38,8 @@ final-project/
 ├── chatbot.py
 ├── ChatConfig.py
 ├── conversationstate.py
-└── BIA6304_Zallo_Final.ipynb
-└──README.md
+├── BIA6304_Zallo_Final.ipynb
+└── README.md
 
 
 ## File Descriptions
