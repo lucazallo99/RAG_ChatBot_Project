@@ -21,12 +21,13 @@ This project involves developing an interactive chatbot that allows users to que
 - **Parquet**: Storage format for the historical data.
 
 ## Environment Variables
+```
 This project requires the following environment variables to run:
 
 - `API_KEY`: Your OpenAI API key.
 Create a `.env` file in the root directory with the following format:
 API_KEY=your-key-here
-
+```
 ## Project Structure
 ```
 final-project/
