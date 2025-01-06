@@ -27,7 +27,6 @@ This project requires the following environment variables to run:
 Create a `.env` file in the root directory with the following format:
 API_KEY=your-key-here
 
-
 ## Project Structure
 
 final-project/
