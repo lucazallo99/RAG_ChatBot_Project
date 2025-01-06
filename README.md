@@ -1,4 +1,4 @@
-##RAG CHATBOT ON EUROPEAN HISTORY
+## RAG CHATBOT ON EUROPEAN HISTORY
 This is a RAG ChatBot project. It was developed as my Final for a Text Mining Class during my Master's Degree
 
 ## Overview
